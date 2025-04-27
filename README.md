@@ -27,3 +27,6 @@ These examples demonstrate the model's ability to accurately identify and track 
 
 ## Acknowledgments
 - [YOLOv5](https://github.com/ultralytics/yolov5) - The object detection architecture used in this project.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Samuelson777/Qualcomm-VisionX-Object-Detection/blob/main/LICENSE) file for details.
